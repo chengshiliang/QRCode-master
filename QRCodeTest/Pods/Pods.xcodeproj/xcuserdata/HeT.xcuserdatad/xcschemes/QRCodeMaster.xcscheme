@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'AAF83629B4D7A77124A1100307B97A49'
-               BlueprintName = 'QRCodeLibrary'
+               BlueprintIdentifier = '5AB6254E884ED80C9ABD6DD221C02BCD'
+               BlueprintName = 'QRCodeMaster'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libQRCodeLibrary.a'>
+               BuildableName = 'libQRCodeMaster.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

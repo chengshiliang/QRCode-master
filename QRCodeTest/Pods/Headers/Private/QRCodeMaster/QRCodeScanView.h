@@ -1,0 +1,1 @@
+../../../../../QRCodeLibrary/QRCodeScanView.h

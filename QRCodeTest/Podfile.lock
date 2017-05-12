@@ -1,19 +1,19 @@
 PODS:
   - Masonry (1.0.2)
-  - QRCodeLibrary (0.0.2):
+  - QRCodeMaster (0.0.2):
     - Masonry (~> 1.0.2)
 
 DEPENDENCIES:
-  - QRCodeLibrary (from `../`)
+  - QRCodeMaster (from `../`)
 
 EXTERNAL SOURCES:
-  QRCodeLibrary:
+  QRCodeMaster:
     :path: ../
 
 SPEC CHECKSUMS:
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
-  QRCodeLibrary: be711b360b8d2e2a6c7d99706d8b9bc493f72658
+  QRCodeMaster: 3246b5b6c05e324445bb622964ba27aaca334a51
 
-PODFILE CHECKSUM: d6afc05f394cfd5c3bad6f045cb1e8a068d06043
+PODFILE CHECKSUM: 16c6fd3959dba79e919a4ff64cf1ca4af9d1d09c
 
 COCOAPODS: 1.1.1
