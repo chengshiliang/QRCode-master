@@ -2,7 +2,7 @@
   "name": "QRCodeLibrary",
   "version": "0.0.2",
   "summary": "QRCodeLibrary is a high level request util based on AVFoundation",
-  "homepage": "https://github.com/chengshiliang/QRCodeLibrary",
+  "homepage": "https://github.com/chengshiliang/QRCode-master",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -11,7 +11,7 @@
     "chengshiliang": "285928582@qq.com"
   },
   "source": {
-    "git": "https://github.com/chengshiliang/QRCodeLibrary.git",
+    "git": "https://github.com/chengshiliang/QRCode-master.git",
     "tag": "0.0.2"
   },
   "platforms": {

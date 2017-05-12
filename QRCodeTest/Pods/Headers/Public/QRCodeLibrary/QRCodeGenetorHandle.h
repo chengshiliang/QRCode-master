@@ -1,1 +1,0 @@
-../../../../../QRCodeLibrary/QRCodeGenetorHandle.h

@@ -1,8 +1,8 @@
-source 'https://github.com/chengshiliang/QRCodeLibrary.git'
+source 'https://github.com/chengshiliang/QRCode-master.git'
 source 'https://github.com/Cocoapods/Specs.git'
 platform :ios, '8.0'
 target 'QRCodeTest' do
     #pod 'Masonry', '~> 1.0.2'
-pod 'QRCodeLibrary', :path => '../'
+pod 'QRCodeLibrary', '0.0.2'
 end
 inhibit_all_warnings!
