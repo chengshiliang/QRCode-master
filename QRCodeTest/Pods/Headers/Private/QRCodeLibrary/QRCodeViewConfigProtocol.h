@@ -1,0 +1,1 @@
+../../../../../QRCodeLibrary/QRCodeViewConfigProtocol.h

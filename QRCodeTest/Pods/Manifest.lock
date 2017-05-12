@@ -1,0 +1,19 @@
+PODS:
+  - Masonry (1.0.2)
+  - QRCodeLibrary (0.0.2):
+    - Masonry (~> 1.0.2)
+
+DEPENDENCIES:
+  - QRCodeLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  QRCodeLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  QRCodeLibrary: a94543dc2e0ea42342ba2170362161f9803fae64
+
+PODFILE CHECKSUM: a26700830e886fc05a9b9397c7823ff74462f8ed
+
+COCOAPODS: 1.1.1
